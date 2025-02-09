@@ -1,0 +1,8 @@
+Renk Paleti:
+#51CDD5
+#F9F5D9
+#CF4A46
+
+Hakkımda:
+
+13 yaşındayım.Python eğitimi alıyorum. Daha önceden ardumio uno ve kodu game lab kursu aldım.
